@@ -1,8 +1,5 @@
-# numpy
 
-# Project Title
-
-Collection of Numpy Ecxercises
+# Collection of Numpy Ecxercises
 
 This repo is my personal tracker of the Numpy problems solved by me
 
